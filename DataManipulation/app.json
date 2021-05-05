@@ -1,0 +1,26 @@
+{
+  "id": "4443ca5d-6a90-4d45-8c91-ba3ed8e16dc3",
+  "name": "Customer Overview",
+  "publisher": "Cronus International Ltd.",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://DataManipulation.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}

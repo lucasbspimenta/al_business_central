@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Customer Overview">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3312848521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Overview</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Overview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3312848521 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Overview - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3312848521 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Overview - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3312848521 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Overview - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3312848521 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Overview - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3312848521 - Field 2578636657 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LastRunDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Overview - Field LastRunDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3312848521 - Field 2720485332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Customer Overview - Field Source Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1996007807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Overview List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Overview List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1996007807 - Action 3614118165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Customer Overview List - Action Import Records - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -13,32 +13,32 @@ page 50120 "Customer Overview List"
         {
             repeater(General)
             {
-                field("Entry No."; "Entry No.")
+                field("Entry No."; Rec."Entry No.")
                 {
                     ApplicationArea = All;
 
                 }
-                field("Customer No."; "Customer No.")
+                field("Customer No."; Rec."Customer No.")
                 {
                     ApplicationArea = All;
 
                 }
-                field("Customer Name"; "Customer Name")
+                field("Customer Name"; Rec."Customer Name")
                 {
                     ApplicationArea = All;
                 }
 
-                field("Source Code"; "Source Code")
+                field("Source Code"; Rec."Source Code")
                 {
                     ApplicationArea = All;
 
                 }
-                field("Amount"; "Amount")
+                field("Amount"; Rec."Amount")
                 {
                     ApplicationArea = All;
 
                 }
-                field("LastRunDate"; "LastRunDate")
+                field("LastRunDate"; Rec."LastRunDate")
                 {
                     ApplicationArea = All;
 
@@ -51,13 +51,17 @@ page 50120 "Customer Overview List"
     {
         area(Processing)
         {
-            action(ActionName)
+            action("Import Records")
             {
+                Caption = 'Import Records';
+                Image = Import;
                 ApplicationArea = All;
 
                 trigger OnAction()
+                var
+                    UpdateCustomerOverview: Codeunit "Customer Overview Mgmt";
                 begin
-
+                    UpdateCustomerOverview.Run();
                 end;
             }
         }

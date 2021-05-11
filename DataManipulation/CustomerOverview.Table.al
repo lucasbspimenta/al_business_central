@@ -30,7 +30,7 @@ table 50120 "Customer Overview"
             DataClassification = CustomerContent;
             Caption = 'Amount';
         }
-        field(6; "LastRunDate"; Decimal)
+        field(6; "LastRunDate"; DateTime)
         {
             DataClassification = CustomerContent;
             Caption = 'LastRunDate';

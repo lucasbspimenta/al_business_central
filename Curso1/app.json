@@ -1,0 +1,26 @@
+{
+  "id": "4137f03f-2a1c-48f9-a1fd-648c61d3453c",
+  "name": "Curso1",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Curso1.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
